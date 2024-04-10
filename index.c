@@ -1,1 +1,3 @@
-int i;
+int main(){
+  printf("dodali smo drugu granu")
+}
